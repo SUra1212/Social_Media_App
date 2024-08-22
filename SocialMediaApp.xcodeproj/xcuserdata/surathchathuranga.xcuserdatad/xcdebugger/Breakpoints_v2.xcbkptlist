@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2BC20E5-EC2D-43B9-8CEA-3E8419D02013"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D220DB1C-13E7-49A2-A061-77CFC01CB71A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialMediaApp/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D220DB1C-13E7-49A2-A061-77CFC01CB71A - c213d1213e851c1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.border(CoreGraphics.CGFloat, SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.border(CoreGraphics.CGFloat, SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.vAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in SocialMediaApp.LoginView.body.getter : some"
+                  moduleName = "SocialMediaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surathchathuranga/Desktop/SocialMediaApp/SocialMediaApp/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+               <Location
+                  uuid = "D220DB1C-13E7-49A2-A061-77CFC01CB71A - d26195bad3c60299"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.border(CoreGraphics.CGFloat, SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.vAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in SocialMediaApp.LoginView.body.getter : some"
+                  moduleName = "SocialMediaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surathchathuranga/Desktop/SocialMediaApp/SocialMediaApp/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1948">
+               </Location>
+               <Location
+                  uuid = "D220DB1C-13E7-49A2-A061-77CFC01CB71A - c213d1213e851c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.border(CoreGraphics.CGFloat, SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.border(CoreGraphics.CGFloat, SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.vAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in SocialMediaApp.LoginView.body.getter : some"
+                  moduleName = "SocialMediaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surathchathuranga/Desktop/SocialMediaApp/SocialMediaApp/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C509BF41-65E6-402B-84E6-DA409A45BEC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialMediaApp/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2F71F07-4960-4D02-926D-8BC8B745D183"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialMediaApp/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7FB6C4B-18FA-4582-890F-8AA968686AE8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialMediaApp/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF4C99FA-2918-41E6-8A8A-2B2FE7ADD639"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialMediaApp/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC08A7C2-DCAD-422D-A563-3B0600D02C16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialMediaApp/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EC08A7C2-DCAD-422D-A563-3B0600D02C16 - c5814d2f979ef0a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocialMediaApp.RegisterView.body.getter : some"
+                  moduleName = "SocialMediaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surathchathuranga/Desktop/SocialMediaApp/SocialMediaApp/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  uuid = "EC08A7C2-DCAD-422D-A563-3B0600D02C16 - 8efbb43e52ecabfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.hAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.ViewThatFits&lt;SwiftUI.TupleView&lt;(SwiftUI.ScrollView&lt;&lt;&lt;opaque return type of SocialMediaApp.RegisterView.HelperView() -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SocialMediaApp.RegisterView.HelperView() -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.vAlign(SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in SocialMediaApp.RegisterView.body.getter : some"
+                  moduleName = "SocialMediaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surathchathuranga/Desktop/SocialMediaApp/SocialMediaApp/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
